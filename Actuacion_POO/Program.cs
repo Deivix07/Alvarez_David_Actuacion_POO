@@ -10,7 +10,7 @@ namespace Actuacion_POO
     {
         static void Main(string[] args)
         {
-            Calculadora calculadora = new Calculadora(5,7);
+            Calculadora calculadora = new Calculadora(4,8);
             Console.WriteLine(calculadora.sumar());
             Console.WriteLine(calculadora.restar());
             Console.WriteLine(calculadora.multiplicar());
