@@ -1,0 +1,15 @@
+D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\18-02-25\Ejercicio_Perimetro_Area\obj\Debug\net9.0\Ejercicio_Perimetro_Area.GeneratedMSBuildEditorConfig.editorconfig
+D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\18-02-25\Ejercicio_Perimetro_Area\obj\Debug\net9.0\Ejercicio_Perimetro_Area.AssemblyInfoInputs.cache
+D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\18-02-25\Ejercicio_Perimetro_Area\obj\Debug\net9.0\Ejercicio_Perimetro_Area.AssemblyInfo.cs
+D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\18-02-25\Ejercicio_Perimetro_Area\obj\Debug\net9.0\Ejercicio_Perimetro_Area.csproj.CoreCompileInputs.cache
+D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\18-02-25\Ejercicio_Perimetro_Area\obj\Debug\net9.0\Ejercicio_Perimetro_Area.sourcelink.json
+D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\18-02-25\Ejercicio_Perimetro_Area\bin\Debug\net9.0\Ejercicio_Perimetro_Area.exe
+D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\18-02-25\Ejercicio_Perimetro_Area\bin\Debug\net9.0\Ejercicio_Perimetro_Area.deps.json
+D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\18-02-25\Ejercicio_Perimetro_Area\bin\Debug\net9.0\Ejercicio_Perimetro_Area.runtimeconfig.json
+D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\18-02-25\Ejercicio_Perimetro_Area\bin\Debug\net9.0\Ejercicio_Perimetro_Area.dll
+D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\18-02-25\Ejercicio_Perimetro_Area\bin\Debug\net9.0\Ejercicio_Perimetro_Area.pdb
+D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\18-02-25\Ejercicio_Perimetro_Area\obj\Debug\net9.0\Ejercicio_Perimetro_Area.dll
+D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\18-02-25\Ejercicio_Perimetro_Area\obj\Debug\net9.0\refint\Ejercicio_Perimetro_Area.dll
+D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\18-02-25\Ejercicio_Perimetro_Area\obj\Debug\net9.0\Ejercicio_Perimetro_Area.pdb
+D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\18-02-25\Ejercicio_Perimetro_Area\obj\Debug\net9.0\Ejercicio_Perimetro_Area.genruntimeconfig.cache
+D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\18-02-25\Ejercicio_Perimetro_Area\obj\Debug\net9.0\ref\Ejercicio_Perimetro_Area.dll

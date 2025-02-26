@@ -4,15 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Actuacion_POO
+namespace Ejercicio_Perimetro_Area
 {
     // La interfaz Operacion define los métodos que deben implementars
-    internal interface Operacion
+    interface Operacion
     {
         // métodos para realizar las operaciones
-        int sumar();
-        int restar();
-        int multiplicar();
-        int dividir();
+        string resultado();
     }
 }
